@@ -1,0 +1,16 @@
+
+.first{
+    height: 40px;
+background-color: rebeccapurple;
+}
+
+.second{    
+    position: absolute ;
+    top: 10px;
+   background-color: red; 
+}
+
+.third{
+  background-color: aqua;  
+}
+
